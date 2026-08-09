@@ -4,7 +4,7 @@
 
 **When does topological structure make an analog reservoir tolerate a dead element — and when doesn't it?**
 
-A pre-registered simulation study of the SSH resonator chain used as a physical reservoir, taken down the full scoping ladder until the claim stopped giving. Conducted under the [gbranaa4-hue method](gbranaa4-hue-method.pdf): pre-register the test, validate the instrument, split the average, find the boundary, and write the "no" as carefully as the "yes."
+A pre-registered simulation study of the SSH resonator chain used as a physical reservoir, taken down the full scoping ladder until the claim stopped giving. Conducted under the [tritsystem method](tritsystem-method.pdf): pre-register the test, validate the instrument, split the average, find the boundary, and write the "no" as carefully as the "yes."
 
 ## The result, in one sentence
 
@@ -51,9 +51,9 @@ Simulation only (tight-binding + a damped/driven Duffing ODE model); linear-memo
 
 If you use this work, please cite it via its DOI (see also `CITATION.cff` — GitHub's "Cite this repository" button):
 
-> gbranaa4-hue (2026). *Topological protection as a defect-tolerant reservoir primitive: a pre-registered simulation study of when it holds.* Zenodo. https://doi.org/10.5281/zenodo.21305151
+> tritsystem (2026). *Topological protection as a defect-tolerant reservoir primitive: a pre-registered simulation study of when it holds.* Zenodo. https://doi.org/10.5281/zenodo.21305151
 
 ## Related
 
-- [methodlm](https://github.com/gbranaa4-hue/methodlm) — the honest-measurement / causal-reasoning harness.
-- The operating discipline this study followed: [gbranaa4-hue-method.pdf](gbranaa4-hue-method.pdf).
+- [methodlm](https://github.com/tritsystem/methodlm) — the honest-measurement / causal-reasoning harness.
+- The operating discipline this study followed: [tritsystem-method.pdf](tritsystem-method.pdf).
