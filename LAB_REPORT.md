@@ -1,6 +1,6 @@
 # Topological protection as a defect-tolerant reservoir primitive — and the exact conditions under which it holds
 
-**gbranaa4-hue — draft v0.2, 2026-07-10** (prepared with an AI research assistant; every number reproducible from the cited scripts). Conducted under the [gbranaa4-hue method](../gbranaa4-hue-method.pdf): pre-register the test, validate the instrument, split the average, find the boundary, and write the "no" as carefully as the "yes."
+**tritsystem — draft v0.2, 2026-07-10** (prepared with an AI research assistant; every number reproducible from the cited scripts). Conducted under the [tritsystem method](../tritsystem-method.pdf): pre-register the test, validate the instrument, split the average, find the boundary, and write the "no" as carefully as the "yes."
 
 ## Abstract
 

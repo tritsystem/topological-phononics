@@ -3,7 +3,7 @@
 defect-advantage a REAL effect, or noise? The prior run had only ~12 samples (1.1x, 64%). Here:
 6 seeds x all 13 interior sites = 78 paired samples per model, with a PRE-REGISTERED decision rule.
 
-PRE-REGISTERED (per the gbranaa4-hue method: pre-register, read the raw numbers, report the null):
+PRE-REGISTERED (per the tritsystem method: pre-register, read the raw numbers, report the null):
   H1  compensated model = REAL topological positive  <=>  paired topo-vs-trivial win-rate 95%-CI
       LOWER BOUND > 50%  AND  median penalty topo < trivial.
   Otherwise report inconclusive/null. Naive (chiral-broken) model expected <= 50% (reversal).

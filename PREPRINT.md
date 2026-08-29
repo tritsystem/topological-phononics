@@ -1,7 +1,7 @@
 # Topological protection as a defect-tolerant reservoir primitive: a pre-registered simulation study of when it holds
 
-**gbranaa4-hue** (independent researcher) — *[add full name / ORCID before submission]*
-Contact: gbranaa4@gmail.com · Code and data: https://github.com/gbranaa4-hue/topological-phononics
+**tritsystem** (independent researcher) — *[add full name / ORCID before submission]*
+Contact: gbranaa4@gmail.com · Code and data: https://github.com/tritsystem/topological-phononics
 Preprint, July 2026.
 
 ---
@@ -91,7 +91,7 @@ This is a simulation study. Sections 3.1-3.6 use a tight-binding or leaky-ESN mo
 
 ## 7. Data and code availability
 
-All code, the extended lab report, the interactive dashboard, and the animations are public and reproducible at https://github.com/gbranaa4-hue/topological-phononics. Each experiment script is pre-registered and self-testing; `phononic_methods.py` includes a self-test that reproduces the reported numbers.
+All code, the extended lab report, the interactive dashboard, and the animations are public and reproducible at https://github.com/tritsystem/topological-phononics. Each experiment script is pre-registered and self-testing; `phononic_methods.py` includes a self-test that reproduces the reported numbers.
 
 ## References
 
@@ -102,4 +102,4 @@ All code, the extended lab report, the interactive dashboard, and the animations
 - Tanaka G, Yamane T, Heroux JB, et al. (2019). Recent advances in physical reservoir computing: A review. *Neural Networks* 115, 100-123.
 - Atiya AF, Parlos AG (2000). New results on recurrent network training. *IEEE Transactions on Neural Networks* 11(3), 697-709. *(NARMA benchmark.)*
 
-*Conducted under the gbranaa4-hue method: pre-register the test, validate the instrument, split the average, find the boundary, and write the "no" as carefully as the "yes."*
+*Conducted under the tritsystem method: pre-register the test, validate the instrument, split the average, find the boundary, and write the "no" as carefully as the "yes."*

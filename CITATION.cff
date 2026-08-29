@@ -4,11 +4,11 @@ title: "Topological protection as a defect-tolerant reservoir primitive: a pre-r
 abstract: "A pre-registered simulation study of the SSH resonator chain as a physical reservoir. Topological structure protects a reservoir's computation against a dead element exactly when chiral symmetry holds -- several-fold in the idealized model, weaker under nonlinearity and noise, beaten by generic redundancy, and only marginally recovered in a realistic damped/Duffing device."
 type: software
 authors:
-  - name: "gbranaa4-hue"
+  - name: "tritsystem"
     # replace with: given-names / family-names / orcid before formal submission
 date-released: 2026-07-10
 version: "v0.2"
-url: "https://github.com/gbranaa4-hue/topological-phononics"
+url: "https://github.com/tritsystem/topological-phononics"
 doi: "10.5281/zenodo.21305151"
 identifiers:
   - type: doi

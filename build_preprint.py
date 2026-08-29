@@ -85,7 +85,7 @@ def build(md='PREPRINT.md', pdf='preprint.pdf'):
     SimpleDocTemplate(pdf, pagesize=letter, topMargin=0.9 * inch, bottomMargin=0.9 * inch,
                       leftMargin=0.9 * inch, rightMargin=0.9 * inch,
                       title="Topological protection as a defect-tolerant reservoir primitive",
-                      author="gbranaa4-hue").build(story, onFirstPage=foot, onLaterPages=foot)
+                      author="tritsystem").build(story, onFirstPage=foot, onLaterPages=foot)
     print(f"wrote {pdf}")
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@
 """Does a REAL 2D quasicrystal (de Bruijn cut-and-project, the actual math behind Penrose
 tilings) make a better/worse/different reservoir than a random graph or my 1D Fibonacci chain,
 at matched edge count? The de Bruijn generator is copied VERBATIM from
-quasicrystal-mems-reservoir/phononic_symmetry_grading_sim.py (gbranaa4-hue's own repo,
+quasicrystal-mems-reservoir/phononic_symmetry_grading_sim.py (tritsystem's own repo,
 debruijn_quasicrystal_points(), read directly from the cloned source -- not reconstructed from
 a description) -- that repo already validated this as a real quasiperiodic tiling; it has never
 been wired into a reservoir's connectivity before tonight.
@@ -27,7 +27,7 @@ def progress(i, total, label, t0):
     print(f"[{bar}] {i}/{total}  {label}  ({time.time()-t0:5.1f}s elapsed)", flush=True)
 
 # ---------------------------------------------------------------------------------
-# debruijn_quasicrystal_points -- copied VERBATIM from gbranaa4-hue/quasicrystal-mems-reservoir
+# debruijn_quasicrystal_points -- copied VERBATIM from tritsystem/quasicrystal-mems-reservoir
 # phononic_symmetry_grading_sim.py (cloned and read directly, not reconstructed)
 # ---------------------------------------------------------------------------------
 def debruijn_quasicrystal_points(n_fold, window_radius, grid_index_range=8,
